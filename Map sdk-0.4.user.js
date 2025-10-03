@@ -29,7 +29,6 @@ MapSdk.lines.push({x1: 549.5,y1: 459.5,x2: 549.5,y2: 559.5,styling:{main: {"stro
 MapSdk.lines.push({x1: 549.5,y1: 459.5,x2: 554.5,y2: 459.5,styling:{main: {"strokeStyle": "#FFFF00","lineWidth": 3},mini: {"strokeStyle": "#FFFF00","lineWidth": 3}},drawOnMini: true,drawOnMap: true,});
 MapSdk.lines.push({x1: 369.5,y1: 299.5,x2: 369.5,y2: 399.5,styling:{main: {"strokeStyle": "#FFFF00","lineWidth": 3},mini: {"strokeStyle": "#FFFF00","lineWidth": 3}},drawOnMini: true,drawOnMap: true,});
 MapSdk.lines.push({x1: 379.5,y1: 299.5,x2: 379.5,y2: 399.5,styling:{main: {"strokeStyle": "#FFFF00","lineWidth": 3},mini: {"strokeStyle": "#FFFF00","lineWidth": 3}},drawOnMini: true,drawOnMap: true,});
-MapSdk.lines.push({x1: 569.5,y1: 419.5,x2: 569.5,y2: 459.5,styling:{main: {"strokeStyle": "#FFFF00","lineWidth": 3},mini: {"strokeStyle": "#FFFF00","lineWidth": 3}},drawOnMini: true,drawOnMap: true,});
 MapSdk.lines.push({x1: 389.5,y1: 299.5,x2: 389.5,y2: 399.5,styling:{main: {"strokeStyle": "#FFFF00","lineWidth": 3},mini: {"strokeStyle": "#FFFF00","lineWidth": 3}},drawOnMini: true,drawOnMap: true,});
 MapSdk.lines.push({x1: 404.5,y1: 200.5,x2: 404.5,y2: 399.5,styling:{main: {"strokeStyle": "#FFFF00","lineWidth": 3},mini: {"strokeStyle": "#FFFF00","lineWidth": 3}},drawOnMini: true,drawOnMap: true,});
 MapSdk.lines.push({x1: 419.5,y1: 200.5,x2: 419.5,y2: 419.5,styling:{main: {"strokeStyle": "#FFFF00","lineWidth": 3},mini: {"strokeStyle": "#FFFF00","lineWidth": 3}},drawOnMini: true,drawOnMap: true,});
@@ -85,17 +84,17 @@ MapSdk.lines.push({x1: 664.5,y1: 449.5,x2: 664.5,y2: 499.5,styling:{main: {"stro
 MapSdk.lines.push({x1: 639.5,y1: 476,x2: 639.5,y2: 449.5,styling:{main: {"strokeStyle": "#FFFF00","lineWidth": 3},mini: {"strokeStyle": "#FFFF00","lineWidth": 3}},drawOnMini: true,drawOnMap: true,});
 MapSdk.lines.push({x1: 639.5,y1: 449.5,x2: 769.5,y2: 449.5,styling:{main: {"strokeStyle": "#FFFF00","lineWidth": 3},mini: {"strokeStyle": "#FFFF00","lineWidth": 3}},drawOnMini: true,drawOnMap: true,});
 MapSdk.lines.push({x1: 584.5,y1: 488,x2: 584.5,y2: 564.5,styling:{main: {"strokeStyle": "#FFFF00","lineWidth": 3},mini: {"strokeStyle": "#FFFF00","lineWidth": 3}},drawOnMini: true,drawOnMap: true,});
-MapSdk.lines.push({x1: 564.5,y1: 564.5,x2: 564.5,y2: 457,styling:{main: {"strokeStyle": "#FFFF00","lineWidth": 3},mini: {"strokeStyle": "#FFFF00","lineWidth": 3}},drawOnMini: true,drawOnMap: true,});
+MapSdk.lines.push({x1: 559.5,y1: 564.5,x2: 559.5,y2: 469.5,styling:{main: {"strokeStyle": "#FFFF00","lineWidth": 3},mini: {"strokeStyle": "#FFFF00","lineWidth": 3}},drawOnMini: true,drawOnMap: true,});
 MapSdk.lines.push({x1: 640.5,y1: 429.5,x2: 770.5,y2: 422,styling:{main: {"strokeStyle": "#FFFF00","lineWidth": 3},mini: {"strokeStyle": "#FFFF00","lineWidth": 3}},drawOnMini: true,drawOnMap: true,});
 MapSdk.lines.push({x1: 689.5,y1: 509.5,x2: 689.5,y2: 564.5,styling:{main: {"strokeStyle": "#FFFF00","lineWidth": 3},mini: {"strokeStyle": "#FFFF00","lineWidth": 3}},drawOnMini: true,drawOnMap: true,});
 MapSdk.lines.push({x1: 709.5,y1: 479.5,x2: 709.5,y2: 564.5,styling:{main: {"strokeStyle": "#FFFF00","lineWidth": 3},mini: {"strokeStyle": "#FFFF00","lineWidth": 3}},drawOnMini: true,drawOnMap: true,});
 MapSdk.lines.push({x1: 732.5,y1: 498,x2: 732.5,y2: 564.5,styling:{main: {"strokeStyle": "#FFFF00","lineWidth": 3},mini: {"strokeStyle": "#FFFF00","lineWidth": 3}},drawOnMini: true,drawOnMap: true,});
 MapSdk.lines.push({x1: 599.5,y1: 564.5,x2: 599.5,y2: 459.5,styling:{main: {"strokeStyle": "#FFFF00","lineWidth": 3},mini: {"strokeStyle": "#FFFF00","lineWidth": 3}},drawOnMini: true,drawOnMap: true,});
-MapSdk.lines.push({x1: 579.5,y1: 454.5,x2: 579.5,y2: 416,styling:{main: {"strokeStyle": "#FFFF00","lineWidth": 3},mini: {"strokeStyle": "#FFFF00","lineWidth": 3}},drawOnMini: true,drawOnMap: true,});
-MapSdk.lines.push({x1: 579.5,y1: 416,x2: 629.5,y2: 399.5,styling:{main: {"strokeStyle": "#FFFF00","lineWidth": 3},mini: {"strokeStyle": "#FFFF00","lineWidth": 3}},drawOnMini: true,drawOnMap: true,});
 
 MapSdk.lines.push({x1: 614.5,y1: 499.5,x2: 614.5,y2: 564.5,styling:{main: {"strokeStyle": "#FFFF00","lineWidth": 3},mini: {"strokeStyle": "#FFFF00","lineWidth": 3}},drawOnMini: true,drawOnMap: true,});
 MapSdk.lines.push({x1: 629.5,y1: 499.5,x2: 629.5,y2: 564.5,styling:{main: {"strokeStyle": "#FFFF00","lineWidth": 3},mini: {"strokeStyle": "#FFFF00","lineWidth": 3}},drawOnMini: true,drawOnMap: true,});
+
+MapSdk.lines.push({x1: 419.5,y1: 349.5,x2: 434.5,y2: 349.5,styling:{main: {"strokeStyle": "#FFFF00","lineWidth": 3},mini: {"strokeStyle": "#FFFF00","lineWidth": 3}},drawOnMini: true,drawOnMap: true,});
 // Korridor 2, Player Sledgehammer, Width: 10 squares
 MapSdk.texts.push({x: 354.5, y: 484.5, text: "2 - Sledgehammer", color: "#FFFFFF", font: "24px bold Arial", drawOnMap: true, drawOnMini: true});
 
@@ -122,15 +121,16 @@ MapSdk.texts.push({x: 455.5, y: 489.5, text: "9 - ALEEXZ", color: "#FFFFFF", fon
 
 // Korridor 10, Player Hetgrootenederland, Width: 10 squares
 MapSdk.texts.push({x: 464.5, y: 484.5, text: "10 - Hetgro.", color: "#FFFFFF", font: "24px bold Arial", drawOnMap: true, drawOnMini: true});
+MapSdk.texts.push({x: 464.5, y: 487.5, text: "& Schmock", color: "#FFFFFF", font: "24px bold Arial", drawOnMap: true, drawOnMini: true});
 
 // Korridor 11, Player Bubu, Width: 10 squares
-MapSdk.texts.push({x: 475.5, y: 489.5, text: "11 - Bashtime", color: "#FFFFFF", font: "24px bold Arial", drawOnMap: true, drawOnMini: true});
+MapSdk.texts.push({x: 474.5, y: 489.5, text: "11 - Jäscher", color: "#FFFFFF", font: "24px bold Arial", drawOnMap: true, drawOnMini: true});
 
 // Korridor 12, Player Stahlherz, Width: 15 squares
 MapSdk.texts.push({x: 487.5, y: 487.5, text: "12 - Gh0st", color: "#FFFFFF", font: "24px bold Arial", drawOnMap: true, drawOnMini: true});
 
 // Korridor 13, Player knallkopp3000, Width: 15 squares
-MapSdk.texts.push({x: 502.5, y: 489.5, text: "13 - One Man Army", color: "#FFFFFF", font: "24px bold Arial", drawOnMap: true, drawOnMini: true});
+MapSdk.texts.push({x: 502.5, y: 489.5, text: "13 - knallkopp", color: "#FFFFFF", font: "24px bold Arial", drawOnMap: true, drawOnMini: true});
 
 // Korridor 14, Player Elf, Width: 15 squares
 MapSdk.texts.push({x: 517, y: 484.5, text: "14 - Elfderpinke", color: "#FFFFFF", font: "24px bold Arial", drawOnMap: true, drawOnMini: true});
@@ -139,10 +139,10 @@ MapSdk.texts.push({x: 517, y: 484.5, text: "14 - Elfderpinke", color: "#FFFFFF",
 MapSdk.texts.push({x: 532.5, y: 489.5, text: "15 - existenzxd", color: "#FFFFFF", font: "24px bold Arial", drawOnMap: true, drawOnMini: true});
 
 // Korridor 17, Player Lucky & Qhgel, Width: 15 squares
-MapSdk.texts.push({x: 556.5, y: 484.5, text: "17 - Luckyluk", color: "#FFFFFF", font: "24px bold Arial", drawOnMap: true, drawOnMini: true});
+MapSdk.texts.push({x: 555, y: 484.5, text: "17 Pupaken", color: "#FFFFFF", font: "24px bold Arial", drawOnMap: true, drawOnMini: true});
 
 // Korridor 18, Player Stockel, Width: 15 squares
-MapSdk.texts.push({x: 574.5, y: 504.5, text: "19 - Stockel", color: "#FFFFFF", font: "24px bold Arial", drawOnMap: true, drawOnMini: true});
+MapSdk.texts.push({x: 572.5, y: 504.5, text: "19 - Babo Yoga", color: "#FFFFFF", font: "24px bold Arial", drawOnMap: true, drawOnMini: true});
 
 // Korridor 19, Player ?Psy?, Width: 15 squares
 MapSdk.texts.push({x: 590.5, y: 501.5, text: "20 - Y0uPwn", color: "#FFFFFF", font: "24px bold Arial", drawOnMap: true, drawOnMini: true});
@@ -193,7 +193,9 @@ MapSdk.texts.push({x: 398, y: 389.5, text: "55 - Mayokid", color: "#FFFFFF", fon
 MapSdk.texts.push({x: 412.5, y: 404.5, text: "56 - Heskos", color: "#FFFFFF", font: "24px bold Arial", drawOnMap: true, drawOnMini: true});
 
 // Korridor 28, Player Deathwatch, Width: 15 squares
-MapSdk.texts.push({x: 427.5, y: 409.5, text: "57 - Deathwatch", color: "#FFFFFF", font: "24px bold Arial", drawOnMap: true, drawOnMini: true});
+MapSdk.texts.push({x: 427.5, y: 406.5, text: "57 - Hetgooten", color: "#FFFFFF", font: "24px bold Arial", drawOnMap: true, drawOnMini: true});
+MapSdk.texts.push({x: 427.5, y: 409.5, text: "& Jäschermeister", color: "#FFFFFF", font: "24px bold Arial", drawOnMap: true, drawOnMini: true});
+MapSdk.texts.push({x: 427.5, y: 340.5, text: "Heskos", color: "#FFFFFF", font: "24px bold Arial", drawOnMap: true, drawOnMini: true});
 
 // Korridor 29, Player Braveheart43, Width: 15 squares
 MapSdk.texts.push({x: 442.5, y: 404.5, text: "58 - Braveheart", color: "#FFFFFF", font: "24px bold Arial", drawOnMap: true, drawOnMini: true});
@@ -202,11 +204,11 @@ MapSdk.texts.push({x: 442.5, y: 404.5, text: "58 - Braveheart", color: "#FFFFFF"
 MapSdk.texts.push({x: 456.5, y: 409.5, text: "59 - Knallkopp", color: "#FFFFFF", font: "24px bold Arial", drawOnMap: true, drawOnMini: true});
 
 // Korridor 31, Player Sandbox&Heskos, Width: 15 squares
-MapSdk.texts.push({x: 474.5, y: 409.5, text: "60", color: "#FFFFFF", font: "24px bold Arial", drawOnMap: true, drawOnMini: true});
-MapSdk.texts.push({x: 474.5, y: 404.5, text: "Sandbox & Heskos", color: "#FFFFFF", font: "24px bold Arial", drawOnMap: true, drawOnMini: true});
+MapSdk.texts.push({x: 472.5, y: 410.5, text: "& Rincewind", color: "#FFFFFF", font: "24px bold Arial", drawOnMap: true, drawOnMini: true});
+MapSdk.texts.push({x: 472.5, y: 408.5, text: "60 - Schmock", color: "#FFFFFF", font: "24px bold Arial", drawOnMap: true, drawOnMini: true});
 
 // Korridor 32, Player Einfach GeiL, Width: 15 squares
-MapSdk.texts.push({x: 487, y: 409.5, text: "62 - Einfach Gei", color: "#FFFFFF", font: "24px bold Arial", drawOnMap: true, drawOnMini: true});
+MapSdk.texts.push({x: 487, y: 409.5, text: "62 - Nimsy", color: "#FFFFFF", font: "24px bold Arial", drawOnMap: true, drawOnMini: true});
 
 // Korridor 33, Player Nimsy, Width: 15 squares
 MapSdk.texts.push({x: 503.5, y: 404.5, text: "63 - Nimsy", color: "#FFFFFF", font: "24px bold Arial", drawOnMap: true, drawOnMini: true});
@@ -254,7 +256,7 @@ MapSdk.texts.push({x: 685.5, y: 405.5, text: "75 - Pupaken", color: "#FFFFFF", f
 
 MapSdk.texts.push({x: 685.5, y: 440.5, text: "78 - ?", color: "#FFFFFF", font: "24px bold Arial", drawOnMap: true, drawOnMini: true});
 
-MapSdk.texts.push({x: 725.5, y: 495.5, text: "79 - Lonelymountain", color: "#FFFFFF", font: "24px bold Arial", drawOnMap: true, drawOnMini: true});
+MapSdk.texts.push({x: 725.5, y: 495.5, text: "79 - Ogre", color: "#FFFFFF", font: "24px bold Arial", drawOnMap: true, drawOnMini: true});
 
 MapSdk.texts.push({x: 336.5, y: 427.5, text: "1a - DuFarmstIchKauf", color: "#FFFFFF", font: "24px bold Arial", drawOnMap: true, drawOnMini: true});
 MapSdk.texts.push({x: 322.5, y: 485.5, text: "1b - Egozentrisch", color: "#FFFFFF", font: "48px bold Arial", drawOnMap: true, drawOnMini: true});
@@ -265,4 +267,9 @@ MapSdk.texts.push({x: 280.5, y: 380.5, text: "51 - Cienfuegos", color: "#FFFFFF"
 MapSdk.texts.push({x: 389.5, y: 291.5, text: "50  -  0815Lukas", color: "#FFFFFF", font: "24px bold Arial", drawOnMap: true, drawOnMini: true});
 
 MapSdk.texts.push({x: 547, y: 455.5, text: "16 - Lordsiddies", color: "#FFFFFF", font: "24px bold Arial", drawOnMap: true, drawOnMini: true});
+
+
+
+MapSdk.texts.push({x: 554, y: 517.5, text: "iPat", color: "#FF0000", font: "24px bold Arial", drawOnMap: true, drawOnMini: true});
+
 MapSdk.mapOverlay.reload();});
