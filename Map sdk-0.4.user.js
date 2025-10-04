@@ -268,8 +268,33 @@ MapSdk.texts.push({x: 389.5, y: 291.5, text: "50  -  0815Lukas", color: "#FFFFFF
 
 MapSdk.texts.push({x: 547, y: 455.5, text: "16 - Lordsiddies", color: "#FFFFFF", font: "24px bold Arial", drawOnMap: true, drawOnMini: true});
 
-
-
-MapSdk.texts.push({x: 554, y: 517.5, text: "iPat", color: "#FF0000", font: "24px bold Arial", drawOnMap: true, drawOnMini: true});
+// Nf Korris:
+MapSdk.texts.push({x: 317, y: 542.5, text: "superneusi", color: "#F7FF00", font: "24px bold Arial", drawOnMap: true, drawOnMini: true});
+MapSdk.texts.push({x: 332, y: 537.5, text: "timos101", color: "#F7FF00", font: "24px bold Arial", drawOnMap: true, drawOnMini: true});
+MapSdk.texts.push({x: 349, y: 538.5, text: "JAVVV", color: "#F7FF00", font: "24px bold Arial", drawOnMap: true, drawOnMini: true});
+MapSdk.texts.push({x: 360, y: 526.5, text: "Sybolic", color: "#F7FF00", font: "24px bold Arial", drawOnMap: true, drawOnMini: true});
+MapSdk.texts.push({x: 375, y: 526.5, text: "Hölle", color: "#F7FF00", font: "24px bold Arial", drawOnMap: true, drawOnMini: true});
+MapSdk.texts.push({x: 391, y: 526.5, text: "nomic", color: "#F7FF00", font: "24px bold Arial", drawOnMap: true, drawOnMini: true});
+MapSdk.texts.push({x: 411, y: 535.5, text: "Dantos Clown", color: "#F7FF00", font: "24px bold Arial", drawOnMap: true, drawOnMini: true});
+MapSdk.texts.push({x: 425, y: 544.5, text: "Millionaire", color: "#F7FF00", font: "24px bold Arial", drawOnMap: true, drawOnMini: true});
+MapSdk.texts.push({x: 434, y: 524.5, text: "Baerchi", color: "#F7FF00", font: "24px bold Arial", drawOnMap: true, drawOnMini: true});
+MapSdk.texts.push({x: 445, y: 539.5, text: "El Nefes", color: "#F7FF00", font: "24px bold Arial", drawOnMap: true, drawOnMini: true});
+MapSdk.texts.push({x: 465, y: 529.5, text: "Pherb", color: "#F7FF00", font: "24px bold Arial", drawOnMap: true, drawOnMini: true});
+MapSdk.texts.push({x: 475, y: 539.5, text: "Scorpion2k", color: "#F7FF00", font: "24px bold Arial", drawOnMap: true, drawOnMini: true});
+MapSdk.texts.push({x: 455, y: 519.5, text: "Helmut", color: "#F7FF00", font: "24px bold Arial", drawOnMap: true, drawOnMini: true});
+MapSdk.texts.push({x: 509, y: 539.5, text: "ExIt", color: "#F7FF00", font: "24px bold Arial", drawOnMap: true, drawOnMini: true});
+MapSdk.texts.push({x: 495, y: 533.5, text: "TanTanMan / SpeicherAuf0", color: "#F7FF00", font: "24px bold Arial", drawOnMap: true, drawOnMini: true});
+MapSdk.texts.push({x: 519, y: 529.5, text: "maestro tony", color: "#F7FF00", font: "24px bold Arial", drawOnMap: true, drawOnMini: true});
+MapSdk.texts.push({x: 534, y: 517.5, text: "KingDome", color: "#F7FF00", font: "24px bold Arial", drawOnMap: true, drawOnMini: true});
+MapSdk.texts.push({x: 554, y: 517.5, text: "iPat", color: "#F7FF00", font: "24px bold Arial", drawOnMap: true, drawOnMini: true});
+MapSdk.texts.push({x: 571, y: 517.5, text: "N112", color: "#F7FF00", font: "24px bold Arial", drawOnMap: true, drawOnMini: true});
+MapSdk.texts.push({x: 584, y: 534.5, text: "tob666", color: "#F7FF00", font: "24px bold Arial", drawOnMap: true, drawOnMini: true});
+MapSdk.texts.push({x: 592, y: 547.5, text: "Orri", color: "#F7FF00", font: "24px bold Arial", drawOnMap: true, drawOnMini: true});
+MapSdk.texts.push({x: 615, y: 546.5, text: "genasher", color: "#F7FF00", font: "24px bold Arial", drawOnMap: true, drawOnMini: true});
+MapSdk.texts.push({x: 638, y: 543.5, text: "DonnerBuddys", color: "#F7FF00", font: "24px bold Arial", drawOnMap: true, drawOnMini: true});
+MapSdk.texts.push({x: 653, y: 543.5, text: "Proschniper", color: "#F7FF00", font: "24px bold Arial", drawOnMap: true, drawOnMini: true});
+MapSdk.texts.push({x: 663, y: 545.5, text: "Covibonjovi", color: "#F7FF00", font: "24px bold Arial", drawOnMap: true, drawOnMini: true});
+MapSdk.texts.push({x: 673, y: 547.5, text: "yazz", color: "#F7FF00", font: "24px bold Arial", drawOnMap: true, drawOnMini: true});
+MapSdk.texts.push({x: 740, y: 551.5, text: "Pimmel", color: "#F7FF00", font: "24px bold Arial", drawOnMap: true, drawOnMini: true});
 
 MapSdk.mapOverlay.reload();});
