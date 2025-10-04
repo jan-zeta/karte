@@ -193,8 +193,8 @@ MapSdk.texts.push({x: 398, y: 389.5, text: "55 - Mayokid", color: "#FFFFFF", fon
 MapSdk.texts.push({x: 412.5, y: 404.5, text: "56 - Heskos", color: "#FFFFFF", font: "24px bold Arial", drawOnMap: true, drawOnMini: true});
 
 // Korridor 28, Player Deathwatch, Width: 15 squares
-MapSdk.texts.push({x: 427.5, y: 340.5, text: "57 - Hetgooten", color: "#FFFFFF", font: "24px bold Arial", drawOnMap: true, drawOnMini: true});
-MapSdk.texts.push({x: 427.5, y: 338.5, text: "& Jäschermeister", color: "#FFFFFF", font: "24px bold Arial", drawOnMap: true, drawOnMini: true});
+MapSdk.texts.push({x: 427.5, y: 338.5, text: "57 - Hetgooten", color: "#FFFFFF", font: "24px bold Arial", drawOnMap: true, drawOnMini: true});
+MapSdk.texts.push({x: 427.5, y: 340.5, text: "& Jäschermeister", color: "#FFFFFF", font: "24px bold Arial", drawOnMap: true, drawOnMini: true});
 MapSdk.texts.push({x: 427.5, y: 404.5, text: "Heskos", color: "#FFFFFF", font: "24px bold Arial", drawOnMap: true, drawOnMini: true});
 
 // Korridor 29, Player Braveheart43, Width: 15 squares
