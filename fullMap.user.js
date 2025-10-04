@@ -198,7 +198,7 @@ MapSdk.texts.push({x: 427.5, y: 340.5, text: "& Jäschermeister", color: "#FFFFF
 MapSdk.texts.push({x: 427.5, y: 404.5, text: "Heskos", color: "#FFFFFF", font: "24px bold Arial", drawOnMap: true, drawOnMini: true});
 
 // Korridor 29, Player Braveheart43, Width: 15 squares
-MapSdk.texts.push({x: 442.5, y: 404.5, text: "58 - Braveheart", color: "#FFFFFF", font: "24px bold Arial", drawOnMap: true, drawOnMini: true});
+MapSdk.texts.push({x: 442.5, y: 404.5, text: "58 - Deathwatch", color: "#FFFFFF", font: "24px bold Arial", drawOnMap: true, drawOnMini: true});
 
 // Korridor 30, Player Stahlherz, Width: 15 squares
 MapSdk.texts.push({x: 456.5, y: 409.5, text: "59 - Knallkopp", color: "#FFFFFF", font: "24px bold Arial", drawOnMap: true, drawOnMini: true});
