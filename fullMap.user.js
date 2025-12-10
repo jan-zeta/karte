@@ -275,6 +275,7 @@ MapSdk.texts.push({x: 322.5, y: 525.5, text: "1b - Egozentrisch", color: "#FFFFF
 MapSdk.texts.push({x: 307.5, y: 527.5, text: "1c - Just Beast", color: "#FFFFFF", font: "48px bold Arial", drawOnMap: true, drawOnMini: true});
 MapSdk.texts.push({x: 291.5, y: 500.5, text: "1d - Heskos", color: "#FFFFFF", font: "48px bold Arial", drawOnMap: true, drawOnMini: true});
 MapSdk.texts.push({x: 261.5, y: 513.5, text: "Kings of the Kartenrand", color: "#FFFFFF", font: "48px bold Arial", drawOnMap: true, drawOnMini: true});
+MapSdk.texts.push({x: 246.5, y: 533.5, text: "Jack, Felix, Felix", color: "#FFFFFF", font: "48px bold Arial", drawOnMap: true, drawOnMini: true});
 MapSdk.texts.push({x: 280.5, y: 380.5, text: "51 - Cienfuegos", color: "#FFFFFF", font: "24px bold Arial", drawOnMap: true, drawOnMini: true});
 MapSdk.texts.push({x: 389.5, y: 291.5, text: "50  -  0815Lukas", color: "#FFFFFF", font: "24px bold Arial", drawOnMap: true, drawOnMini: true});
 
